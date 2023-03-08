@@ -26,3 +26,4 @@ Vuforia 필요
 
 # 플레이 씬
 <img width="80%" src="https://user-images.githubusercontent.com/68226341/223625763-ad0928e6-4803-4c9b-a4ab-50e00f0e6025.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/68226341/223626692-ec060b7e-594b-4132-9097-ac5413641a6a.png"/>
