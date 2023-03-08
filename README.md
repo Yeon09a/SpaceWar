@@ -25,4 +25,4 @@ Vuforia 필요
 - Vast Outer Space
 
 # 플레이 씬
-<img width="80%" src="{이미지 경로}"/>
+<img width="80%" src="https://user-images.githubusercontent.com/68226341/223625763-ad0928e6-4803-4c9b-a4ab-50e00f0e6025.png"/>
