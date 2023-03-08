@@ -23,3 +23,6 @@ Vuforia 필요
 - space_warrior_jet
 - Ultra SF Game Audio Weapons Pack v.1
 - Vast Outer Space
+
+# 플레이 씬
+<img width="80%" src="{이미지 경로}"/>
