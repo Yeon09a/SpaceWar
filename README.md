@@ -19,6 +19,7 @@
   * 카메라를 사용하여 현실 배경과 어우러진 행성, 별을 감상할 수 있습니다.
   <br/><img width="50%" src="https://github.com/user-attachments/assets/4210d348-b21d-44c7-ab2f-a90314e18979"/><img width="50%" src="https://github.com/user-attachments/assets/b98278c1-c7b1-4f89-8854-45f9de6d2dc3"/>
 ## 프로젝트 개요
+🔗자세한 내용은 Notion에서 확인하실 수 있으십니다.    [<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>](https://www.notion.so/SpaceWar-178b66b96b778073b5ccca237aaf44de?pvs=4)
 ### 개발 기간
 * 2021.11 - 2021.12 (약 1개월)
 ### 개발 환경
